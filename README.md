@@ -4,7 +4,7 @@ Working in the R Ecosystem - Building Applications & Content for your Gateway
 
 May 09, 2018
 
-Webinar details can be found on the [Science Gateways](https://sciencegateways.org/-/rstudio-open-source-solutions-for-gateways) website.
+Webinar details can be found on the [Science Gateways](https://sciencegateways.org/index.php?option=com_content&view=article&id=430:rstudio-open-source-solutions-for-gateways&catid=32:w) website.
 
 A [video recording](https://www.youtube.com/watch?v=8_N_EnXPv8k) and [presentation slides](https://drive.google.com/drive/folders/1kZR3sU8917nYeFUrX3wgbcU7byxeUMVs?usp=sharing) are also available.
 
